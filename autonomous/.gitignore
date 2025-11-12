@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors/OS
+.vscode/
+.DS_Store
+
+# Data/Models (예시)
+data/
+models/
+*.onnx
+*.engine
+*.pt
+*.h5
+
+# Outputs
+*.jpg
+*.png
